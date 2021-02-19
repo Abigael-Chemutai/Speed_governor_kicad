@@ -2209,7 +2209,7 @@ GND1
 Text Label 9550 3850 0    50   ~ 0
 GND1
 Text Label 8000 3750 0    50   ~ 0
-GND1
+GND
 Text Label 5300 5650 0    50   ~ 0
 GND1
 Text Label 9250 3950 1    50   ~ 0
